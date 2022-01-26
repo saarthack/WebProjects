@@ -1,0 +1,148 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MAGASINN</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/locomotive-scroll@3.5.4/dist/locomotive-scroll.css">
+</head>
+
+<body>
+    <div data-scroll-container id="mains">
+        <div id="bg">
+            <div id="fullscreen">
+                <div id="nav">
+                    <h1>Magas<span class="thin">inn</span><span class="thins">.Inc</span></h1>
+                    <div id="midnav">
+                        <h4>home <span class="dot"><i class="ri-checkbox-blank-circle-fill"></i></span></h4>
+                        <h4>about<span class="dot"><i class="ri-checkbox-blank-circle-fill"></i></h4>
+                        <h4>service<span class="dot"><i class="ri-checkbox-blank-circle-fill"></i></h4>
+                        <h4>project<span class="dot"><i class="ri-checkbox-blank-circle-fill"></i></h4>
+                        <h4>news<span class="dot"><i class="ri-checkbox-blank-circle-fill"></i></h4>
+                        <h4>story<span class="dot"><i class="ri-checkbox-blank-circle-fill"></i></h4>
+                        <h4>contact<span class="dot"><i class="ri-checkbox-blank-circle-fill"></i></h4>
+                    </div>
+                    <div id="sidelogo">
+                        <div id="cover"></div>
+                        <h3>Contact</h3>
+                        <p><i class="ri-arrow-right-up-line"></i></p>
+                    </div>
+                </div>
+                <div id="bichka">
+                    <h6><i class="ri-checkbox-blank-circle-fill"></i>About MAGASINN</h6>
+                    <h1>About<br> &nbsp;&nbsp;&nbsp;&nbsp;<span>MAGASINN</span></h1>
+                </div>
+                <div id="flowimg">
+                    <img src="https://images.unsplash.com/photo-1448376561459-dbe8868fa34c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
+                        alt="">
+                    <img src="https://images.unsplash.com/photo-1442570468985-f63ed5de9086?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1840&q=80"
+                        alt="">
+                    <img src="https://images.unsplash.com/photo-1484512670197-5f84c2139d0d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1974&q=80"
+                        alt="">
+                    <img src="https://images.unsplash.com/photo-1554801506-b5a9b10f52b3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2071&q=80"
+                        alt="">
+                </div>
+                <div id="sideflow">
+                    <img src="https://images.unsplash.com/photo-1590666027616-38e0283eb6c4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
+                        alt="">
+                    <img src="https://images.unsplash.com/photo-1606406054219-619c4c2e2100?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2071&q=80"
+                        alt="">
+                    <img src="https://images.unsplash.com/photo-1448376561459-dbe8868fa34c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
+                        alt="">
+    
+                </div>
+                <div id="slide1">
+                    <h1 data-scroll data-scroll-speed="-10" data-scroll-direction="horizontal">THANKS FOR WATCHING</h1>
+                </div>
+                <div id="slide2">
+                    <h1 data-scroll data-scroll-speed="10" data-scroll-direction="horizontal">THANKS FOR WATCHING</h1>
+                </div>
+            </div>
+            <div id="main">
+                <div id="nav">
+                    <h1>Magas<span class="thin">inn</span><span class="thins">.Inc</span></h1>
+                    <div id="midnav">
+                        <h4>home <span class="dot"><i class="ri-checkbox-blank-circle-fill"></i></span></h4>
+                        <h4>about<span class="dot"><i class="ri-checkbox-blank-circle-fill"></i></h4>
+                        <h4>service<span class="dot"><i class="ri-checkbox-blank-circle-fill"></i></h4>
+                        <h4>project<span class="dot"><i class="ri-checkbox-blank-circle-fill"></i></h4>
+                        <h4>news<span class="dot"><i class="ri-checkbox-blank-circle-fill"></i></h4>
+                        <h4>story<span class="dot"><i class="ri-checkbox-blank-circle-fill"></i></h4>
+                        <h4>contact<span class="dot"><i class="ri-checkbox-blank-circle-fill"></i></h4>
+                    </div>
+                    <div id="sidelogo">
+                        <div id="cover"></div>
+                        <h3>magasinn kyoto</h3>
+                        <p><i class="ri-arrow-right-up-line"></i></p>
+                    </div>
+                </div>
+                <div id="center">
+                    <h1 data-scroll data-scroll-speed = "-2">a &nbsp;&nbsp;&nbsp;&nbsp;<br>cultural <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;project<br>firm
+                        &nbsp;&nbsp;&nbsp;&nbsp;</h1>
+                    <div data-scroll data-scroll-speed = "-1" id="img1"></div>
+                    <div data-scroll data-scroll-speed = "-1" id="img2"></div>
+                    <h5 data-scroll data-scroll-speed = "-2">with<br>good<br>community</h5>
+                    <div id="dog">
+                        <img src="https://magasinn.xyz/wordpress/wp-content/uploads/2021/12/img-ZASSHU01-480x480.png"
+                            alt="">
+                    </div>
+                </div>
+            </div>
+            <div data-scroll data-scroll-speed="3" id="main2">
+                <div id="p">
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;LOREM
+                        ipsum dolor sit amet consectetur adipisicing elit. Odio possimus reiciendis dignissimos consequatur.
+                        fugiat quia possimus quisquam nesciunt quam quis architecto aliquam id ea, quasi dolorum! Aliquid
+                        quia inventore repudiandae ducimus fugiat earum odio modi consequuntur eos ex commodi cum animi sed
+                        quos iste vitae, voluptas sunt iusto blanditiis accusantium voluptates? Et, dolore consequuntur. Sed
+                        quia quidem excepturi delectus nesciunt, ad et.</p>
+                </div>
+                <h1><i class="ri-asterisk"></i></h1>
+                <div data-scroll data-scroll-speed="-5" data-scroll-direction="horizontal" id="select">
+                    <div id="arrow"><i class="ri-arrow-right-up-line"></i>
+                        <div id="tras"></div>
+                    </div>
+                    <h6>About MAGASINN</h6>
+                </div>
+            </div>
+            <div id="main3">
+                <div id="head">
+                    <h6 data-scroll data-scroll-delay = "0.9" data-scroll-speed="4"><i class="ri-checkbox-blank-circle-fill"></i>MAGASINN project</h6>
+                    <h2 data-scroll data-scroll-delay = "0.4" data-scroll-speed="3">selected <br>&emsp;&nbsp;<span>projects</span></h2>
+                </div>
+                <div id="zoomimg">
+                    <div id="zimg1">
+                        <img src="https://images.unsplash.com/photo-1585157603875-17aacca6182a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1919&q=80" alt="">
+                    </div>
+                    <div id="zimg2">
+                        <img src="https://images.unsplash.com/photo-1575995872537-3793d29d972c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1924&q=80" alt="">
+                    </div>
+                    <div id="write">
+                        <div id="zoomnav">
+                            <h4>pick up</h4>
+                            <h5>Business development/creative development</h5>
+                        </div>
+                        <h3>Delivering "culture" to logistics. New business co-created with logistics company</h3>
+                        <h5>CAPES Co., Ltd./</h5>
+                        <h6>Merry logistics</h6>
+                        <div id="select2" data-scroll data-scroll-speed="1.3">
+                            <div id="arrow2"><i class="ri-arrow-right-up-line"></i>
+                                <div id="tras2"></div>
+                            </div>
+                            <h6>About MAGASINN</h6>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/locomotive-scroll@3.5.4/dist/locomotive-scroll.min.js"></script>
+    <script src="script.js"></script>
+</body>
+
+</html>
